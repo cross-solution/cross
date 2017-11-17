@@ -1,0 +1,19 @@
+title: 'CROSS Solution'
+default_lang: de
+author:
+  name: 'Carsten Bleek'
+  email: bleek@cross-solution.de
+taxonomies:
+  - HR
+  - 'Open Source'
+  - Virtualisierung
+  - VoIP
+metadata:
+  description: 'CROSS Solution, remote only company'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
