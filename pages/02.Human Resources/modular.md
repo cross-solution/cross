@@ -10,4 +10,4 @@ content:
 
 # Human Resources
 
-## the way we work is changeing
+## the way we work is changing
