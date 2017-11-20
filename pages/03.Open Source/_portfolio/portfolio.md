@@ -98,5 +98,5 @@ portfolio:
 ---
 # Open Source
 
-IT is rapidly changing. It's changing the way we live and work. And a lot of cool tools
-<br /><br />
+* it teaches you to work colaborative
+* it shows you how to share you knowlege

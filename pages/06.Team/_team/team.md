@@ -3,7 +3,7 @@ title: Team
 members:
     - name: Carsten Bleek
       image: carsten_bleek.jpg
-      title: Lead Designer
+      title: Manager
       social:
         - title: xing
           url: 'https://www.xing.com/profile/Carsten_Bleek'
@@ -13,19 +13,19 @@ members:
           url: 'https://github.com/cbleek'
     - name: Mathias Gelhausen
       image: mathias_gelhausen.jpg
-      title: Software Developer
+      title: Senior PHP Developer
       social:
         - title: github
           url: 'https://github.com/TiSiE'
     - name: Miroslav Fedeleš
       image: fedys.jpg
-      title: PHP Developer
+      title: Senior PHP Developer
       social:
         - title: github
           url: 'https://github.com/fedys'
     - name: Anthonius Munthi
       image: kilip.jpg
-      title: PHP Developer
+      title: Senior PHP Developer
       social:
         - title: github
           url: 'https://github.com/kilip'
@@ -40,5 +40,5 @@ description: We're
 ---
 
 ## Our Amazing Team
-### Lorem ipsum dolor sit amet consectetur.
+### our h
 
