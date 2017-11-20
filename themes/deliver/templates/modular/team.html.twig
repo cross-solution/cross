@@ -4,24 +4,14 @@
         {% for member in page.header.members %}
         <div class="member">
             <img src="{{page.media[member.image].url}}" class="img-responsive img-circle" alt="">
-            <img src="{{ page.media[member.pic].url }}" class="img-responsive img-circle" alt="">
             <h4>{{ member.name }}</h4>
             <span>{{ member.title }}</span>
             <hr>
             <p>{{ member.info }}</p>
-            <ul class="social-icons">
-                <li>
-                    <a href="{{ member.social_twitter }}">
-                        <i class="fa fa-twitter"></i></a>
-                </li>
-                <li>
-                    <a href="{{ member.social_facebook }}">
-                        <i class="fa fa-facebook"></i></a>
-                </li>
-                <li>
-                    <a href="{{ member.social_feed }}">
-                        <i class="fa fa-rss"></i></a>
-                </li>
+	    <ul class="social-icons">
+              {% for network in member.social %}
+                 <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+              {% endfor %}
             </ul>
         </div>
         {% endfor %}

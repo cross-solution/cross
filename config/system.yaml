@@ -16,7 +16,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: tessellate
+  theme: deliver
   order:
     by: default
     dir: asc

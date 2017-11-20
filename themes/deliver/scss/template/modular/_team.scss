@@ -47,6 +47,10 @@ $module-bg:        #EEEEEE;
             hr {
                 margin: 1rem 0;
             }
+	    img {
+	        border-radius: 100%;
+                border: 20px transparent solid;
+            }
         }
         .social-icons {
             line-height: 2rem;

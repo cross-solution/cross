@@ -1,15 +1,14 @@
 ---
 title: Portfolio
 portfolio:
-    - title: Paradigm
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
-      image: paradigm.jpg
-      modalid: 1
+    - title: Solr
+      desc: "Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™"
+      image: Solr_Logo_on_white.png
       client: RocketTheme
       date: April 2014
       category: Web Development
       url: http://www.rockettheme.com
-    - title: Lexicon
+    - title: Gitlab
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: lexicon.jpg
       modalid: 2
@@ -17,7 +16,7 @@ portfolio:
       date: April 2014
       category: Web Development
       url: http://www.rockettheme.com
-    - title: Osmosis
+    - title: Asterisk
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: osmosis.jpg
       modalid: 3
@@ -25,7 +24,7 @@ portfolio:
       date: April 2014
       category: Web Development
       url: http://www.rockettheme.com
-    - title: Chimera
+    - title: Discourse
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: chimera.jpg
       modalid: 4
@@ -97,6 +96,7 @@ portfolio:
       url: http://www.rockettheme.com
 
 ---
-## Nothing but the best for our portfolio
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam quis risus eget urna mollis ornare vel eu leo.
+# Open Source
+
+IT is rapidly changing. It's changing the way we live and work. And a lot of cool tools
 <br /><br />

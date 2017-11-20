@@ -1,8 +1,22 @@
 title: 'CROSS Solution'
+menu: home
 default_lang: de
 author:
   name: 'Carsten Bleek'
   email: bleek@cross-solution.de
+social:
+  - url: 'https://github.com/cross-solution'
+    icon: 'github'
+  - url: 'https://www.xing.com/companies/crosssolution'
+    icon: 'xing'
+  - url: 'blog.rss'
+    icon: 'rss'
+contact:
+  address:
+    - line: "Diemelstrasse 2-4"
+    - line: "60486 Frankfurt"
+    - line: "Germany"
+  gps: +49 (0)69 71910360  
 taxonomies:
   - HR
   - 'Open Source'
@@ -17,3 +31,22 @@ summary:
   delimiter: '==='
 blog:
   route: /blog
+header_options:
+  arrows: 'true'                            # Create Next and previous button
+  autoslide: 'false'                        # Auto slideshow mode
+  autoslideHoverStop: 'false'               # Pause auto slideshow mode on mouseover
+  interval: '2000'                          # The interval between each slide (Interval in millisecond)
+  loop: 'false'                             # Infinite slideshow             
+  transition : zoom                         # Set the animation kind (fade/slide/page/zoom)
+  itemsForSlide: '0'                        # Wrap each 'n' item
+  touch: 'true'                             # Set a native slide for touch device
+  swipe : 'true'                            # Enable swipe for touch device
+
+footer:
+    description: "We love to work remote. Write, use and sopport open source software."
+    contact_title: "Contact Info"
+    links_title: "Quick Links"
+    newsletter_title: "Newsletter"
+    newsletter_description: "Etiam porta sem malesuada magna mollis euismod."
+    copyright_text: "Copyright 2017 Deliver. All Rights Reserved."
+    feedburner: "" 

@@ -7,7 +7,7 @@
     <title>{% if header.title %}{{ header.title }} | {% endif %}{{ site.title }}</title>
     {% include 'partials/metadata.html.twig' %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="icon" type="image/png" href="{{ theme_url }}/images/favicon.png" />
+    <link rel="icon" type="image/ico" href="{{ theme_url }}/images/favicon.ico" />
 
     {% block stylesheets %}
         {% do assets.addCss('theme://css-compiled/nucleus.css',102) %}
@@ -46,8 +46,10 @@
     <div id="sb-site">
         {% block header %}
         <header id="header">
+
                 <div class="logo">
-                    <h3><a href="{{ base_url_absolute }}">{{ config.site.title }}</a></h3>
+                    <img src="{{ theme_url }}/images/logo-cross.png"
+style="max-height: 80px;">
                     {% block social %}
                         {% include 'partials/social.html.twig' %}
                     {% endblock %}

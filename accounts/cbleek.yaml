@@ -11,3 +11,4 @@ access:
 hashed_password: $2y$10$z6wA6z1pIg7lV0742Ibbh.kUFjjL/4sxN0I1/D6Wl3Z8boBeODjMy
 authorized: true
 twofa_secret: HGZDPPQZQCTQ2SKHQH5IT46EFKLBKEIO
+reset: '677684a98fa2999a7ab89dbbfc3ee8b1::1511695225'

@@ -1,12 +1,13 @@
 ---
-title: Team
+routes:
+  default: '/human-resources'
 content:
     items: @self.modular
     order:
         by: default
         dir: desc
-        custom:
-            - _team
 ---
 
+# Human Resources
 
+## the way we work is changeing

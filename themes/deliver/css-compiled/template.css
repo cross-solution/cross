@@ -1527,6 +1527,9 @@ ul.pagination {
             text-align: center; } }
       .team .members .member hr {
         margin: 1rem 0; }
+      .team .members .member img {
+        border-radius: 100%;
+        border: 20px transparent solid; }
     .team .members .social-icons {
       line-height: 2rem;
       margin: 0;

@@ -1,5 +1,7 @@
 ---
 title: Open Source
+routes:
+  default: '/open-source'
 onpage_menu: false
 body_classes: "modular header-lite fullwidth"
 bg_color: "#B4B093"
