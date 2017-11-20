@@ -1,6 +1,4 @@
-----------------------
-Asterisk or FreeSwitch
-----------------------
+# Asterisk or FreeSwitch
 
 We have a lot of experiences with Asterisk, Freeswitch, Patton Smartnodes,
 Aastaro and Snom Hardware.
