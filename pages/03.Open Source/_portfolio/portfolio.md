@@ -70,4 +70,6 @@ portfolio:
 
 * it teaches you to work colaborative
 * it shows you how to share you knowlege
-* 
+* it helps you to write documentation
+
+Did you ever hear about these things in the HR world?
