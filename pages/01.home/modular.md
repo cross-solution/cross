@@ -23,5 +23,5 @@ taxonomy:
 process:
     markdown: true
     twig: false
-visible: true
+visible: false
 ---
