@@ -50,6 +50,16 @@ footer:
   newsletter_description: "Etiam porta sem malesuada magna mollis euismod."
   copyright_text: "Copyright 2017 Deliver. All Rights Reserved."
   feedburner: ""
-  quicklinks:
-    - url: /imprint
-      text: "Imprint"
+
+quicklinks:
+  - text: "About us"
+    url: /about-us
+  - text: "Imprint"
+    url: /imprint
+othermenu:
+  - text: "About"
+    url: "about"
+  - text: "Privacy Policy"
+    url: "#"
+  - text: "Contact"
+    url: "contact"
