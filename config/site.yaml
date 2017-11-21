@@ -23,7 +23,7 @@ taxonomies:
   - Virtualisierung
   - VoIP
 metadata:
-  description: 'CROSS Solution, remote only company'
+  description: 'CROSS Solution, a remote only company'
 summary:
   enabled: true
   format: short
@@ -43,10 +43,13 @@ header_options:
   swipe : 'true'                            # Enable swipe for touch device
 
 footer:
-    description: "We love to work remote. Write, use and sopport open source software."
-    contact_title: "Contact Info"
-    links_title: "Quick Links"
-    newsletter_title: "Newsletter"
-    newsletter_description: "Etiam porta sem malesuada magna mollis euismod."
-    copyright_text: "Copyright 2017 Deliver. All Rights Reserved."
-    feedburner: "" 
+  description: "We love to work remote. Write, use and sopport open source software."
+  contact_title: "Contact Info"
+  links_title: "Quick Links"
+  newsletter_title: "Newsletter"
+  newsletter_description: "Etiam porta sem malesuada magna mollis euismod."
+  copyright_text: "Copyright 2017 Deliver. All Rights Reserved."
+  feedburner: ""
+  quicklinks:
+    - url: /imprint
+      text: "Imprint"

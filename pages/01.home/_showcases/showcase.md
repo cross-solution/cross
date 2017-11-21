@@ -15,7 +15,7 @@ slides:
   - image: image1.jpg
     heading: "we know how to <strong>communicate</stromg>!"
     subheading: "Fighting for Open Source Sustainability"
-    button_text: Open Source
+    button_text: Asterisk
     button_url: /asterisk
   - image: harman-abiwardani-1583.jpg
     heading: "we love to work <strong>colaborative</stromg>!"
