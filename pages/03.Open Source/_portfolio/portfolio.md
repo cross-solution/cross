@@ -64,39 +64,10 @@ portfolio:
       date: April 2014
       category: Web Development
       url: http://www.rockettheme.com
-    - title: Grafito
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
-      image: grafito.jpg
-      modalid: 9
-      client: RocketTheme
-      date: April 2014
-      category: Web Development
-      url: http://www.rockettheme.com
-    - title: Kirigami
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
-      image: kirigami.jpg
-      modalid: 10
-      client: RocketTheme
-      date: April 2014
-      category: Web Development
-      url: http://www.rockettheme.com
-    - title: Diametric
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
-      image: diametric.jpg  
-      modalid: 11
-      client: RocketTheme
-      date: April 2014
-      category: Web Development
-      url: http://www.rockettheme.com
-    - title: Ionosphere
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
-      image: ionosphere.jpg
-      modalid: 12
-      client: RocketTheme
-      url: http://www.rockettheme.com
-
 ---
+
 # Open Source
 
 * it teaches you to work colaborative
 * it shows you how to share you knowlege
+* 

@@ -40,5 +40,5 @@ description: We're
 ---
 
 ## Our Amazing Team
-### our h
+### Join our Team
 
