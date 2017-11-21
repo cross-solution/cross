@@ -19,12 +19,15 @@ Take a look at the ideas of the [RH oeple](https://resourceful-humans.com/) to u
 
 The HR world is lokking for:
 
+* Lean management
 * Knowledge Management
 * Team Buildig
+* Performance reviews
 
+Our [YAWIK](https://yawik.org) project confirms our observations.
 
-[Open Souce](/open-source) 
+Those topics are well known in the [Open Souce](/open-source) world.
 
-Questions?
+** Questions?
 
-Get in touch
+[Get in touch](/contact)
